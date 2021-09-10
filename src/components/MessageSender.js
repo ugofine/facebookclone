@@ -26,11 +26,11 @@ const MessageSender = () => {
                     <PhotoLibraryIcon/>
                     <h3>Photo</h3>
                 </div>
-                <div className="message-option">
+                {/* <div className="message-option">
                     <MoodIcon/>
                     <h3>Activity</h3>
 
-                </div>
+                </div> */}
 
             </div>
         </div>
