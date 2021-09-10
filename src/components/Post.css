@@ -40,7 +40,7 @@
     border-top: 1px solid gray;
     padding-top: 10px;
     margin-top: 10px;
-    font-size:16px;
+    font-size:10px;
     
 
 }
@@ -53,6 +53,7 @@
 }
 .post-icons p{
     margin-left: 10px;
+    font-size:10px;
 }
 .post-icons:hover{
     background-color: #eff2f5;
