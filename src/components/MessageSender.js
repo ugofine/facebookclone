@@ -1,7 +1,7 @@
 import { Avatar } from "@material-ui/core"
 import VideocamIcon from '@material-ui/icons/Videocam';
 import PhotoLibraryIcon from '@material-ui/icons/PhotoLibrary';
-import MoodIcon from '@material-ui/icons/Mood';
+// import MoodIcon from '@material-ui/icons/Mood';
 import './MessageSender.css'
 
 
