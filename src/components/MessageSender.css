@@ -34,7 +34,7 @@
 .message-option{
     display: flex;
     align-items: center;
-    margin: 5px;
+    margin: 3px;
     padding: 20px;
 }
 .message-option h3{

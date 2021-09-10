@@ -19,16 +19,16 @@ const MessageSender = () => {
             <div className="message-bottom">
                 <div className="message-option">
                     <VideocamIcon/>
-                    <h3>Live Video</h3>
+                    <h3>Video</h3>
 
                 </div>
                 <div className="message-option">
                     <PhotoLibraryIcon/>
-                    <h3>Photo/Video</h3>
+                    <h3>Photo</h3>
                 </div>
                 <div className="message-option">
                     <MoodIcon/>
-                    <h3>Feeling/Activity</h3>
+                    <h3>Activity</h3>
 
                 </div>
 
