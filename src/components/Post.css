@@ -62,4 +62,11 @@
     .post{
         width: 80%;
     }
+    .post-icons p{
+        margin-left: 5px;
+    }
+    .post-icons{
+        padding: 5px;
+        
+    }
 }

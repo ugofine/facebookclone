@@ -51,4 +51,9 @@
     .messagesender{
         width: 80%;
     }
+    .message-option h3{
+        margin-left: 5px;
+        
+    
+    }
 }
