@@ -1,5 +1,6 @@
 .header{
     display: flex;
+    padding: 5px 20px;
     justify-content: space-between;
     background-color: #fff;
     position: sticky;
@@ -26,7 +27,7 @@
     background-color: #eff2f5;
     padding: 5px 30px;
     margin-left: 10px;
-    border-radius: 100px;
+    border-radius: 99px;
 }
 .inside-input{
     border: none;
@@ -41,6 +42,9 @@
 }
 .header-center{
     display: flex;
+    flex: 1;
+    justify-content: center;
+    color: #000;
     
 }
 .header-option .MuiSvgIcon-root{

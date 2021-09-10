@@ -9,6 +9,7 @@
     display :flex;
     align-items: center;
     padding: 15px;
+    position: relative;
 
 }
 .post-avatar{
@@ -24,7 +25,7 @@
     color: gray;
 }
 .post-bottom{
-    margin: 10px 0px;
+    margin: 10px 0;
     padding: 15px 25px;
 }
 .post-image{
@@ -39,12 +40,16 @@
     border-top: 1px solid gray;
     padding-top: 10px;
     margin-top: 10px;
+    font-size:16px;
+    
 
 }
 .post-icons{
     display : flex;
     align-items: center;
     padding: 15px;
+    justify-content: center;
+    flex: 1;
 }
 .post-icons p{
     margin-left: 10px;
