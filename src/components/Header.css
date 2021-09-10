@@ -79,3 +79,18 @@
 
     border-bottom: 3px solid #2e81f4;
 }
+@media screen and (max-width: 780px){
+    .header-center{
+        flex: 1;
+        justify-content: space-around;
+        }
+        .header-option .MuiSvgIcon-root{
+            font-size: 20px;
+           
+        }
+        .header-option{
+         
+            padding: 0 15px;
+           
+        }
+}
