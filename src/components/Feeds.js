@@ -2,7 +2,7 @@ import StoryReel from "./StoryReel"
 import MessageSender from "./MessageSender"
 import Post from "./Post"
 import './Feeds.css'
-import photo from '../images/chi.jpg'
+import photo from '../images/womanlawyer.jpg'
 
 
 

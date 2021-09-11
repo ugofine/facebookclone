@@ -47,7 +47,7 @@
 .post-icons{
     display : flex;
     align-items: center;
-    padding: 15px;
+    padding: 10px;
     justify-content: center;
     flex: 1;
 }
